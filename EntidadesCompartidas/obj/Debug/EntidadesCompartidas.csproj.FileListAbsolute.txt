@@ -1,0 +1,2 @@
+C:\Users\giuli\source\repos\ObligatorioSitioWeb2024\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\ObligatorioSitioWeb2024\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.CoreCompileInputs.cache

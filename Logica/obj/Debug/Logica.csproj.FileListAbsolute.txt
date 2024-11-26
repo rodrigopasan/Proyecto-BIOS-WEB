@@ -1,0 +1,2 @@
+C:\Users\giuli\source\repos\ObligatorioSitioWeb2024\logoca\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\ObligatorioSitioWeb2024\logoca\obj\Debug\Logica.csproj.CoreCompileInputs.cache
